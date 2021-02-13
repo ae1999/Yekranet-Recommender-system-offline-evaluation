@@ -1,1 +1,49 @@
 # Yekranet-Recommender-system-offline-evaluation
+├── ali_item_indexer_factorized.indexer
+├── ali_items_vectors.npy
+├── ali_user_indexer_factorized.indexer
+├── ali_users_vectors.npy
+├── ALS.py
+├── chetor.com
+│   ├── alisResult
+│   │   ├── ali_item_indexer_factorized.indexer
+│   │   ├── ali_items_vectors.npy
+│   │   ├── ali_user_indexer_factorized.indexer
+│   │   └── ali_users_vectors.npy
+│   └── view_matrix
+│       ├── item_indexer.indexer
+│       ├── lil_matrix.npz
+│       └── user_indexer.indexer
+├── chetor.ipynb
+├── chetor pop bias.ipynb
+├── Entekhab Colaborative Filtering MAE Precisio Recall.ipynb
+├── entekhab.ipynb
+├── entekhab.ir
+│   ├── alisResult
+│   │   ├── ali_item_indexer_factorized.indexer
+│   │   ├── ali_items_vectors.npy
+│   │   ├── ali_user_indexer_factorized.indexer
+│   │   └── ali_users_vectors.npy
+│   └── view_matrix
+│       ├── item_indexer.indexer
+│       ├── lil_matrix.npz
+│       └── user_indexer.indexer
+├── entekhab.iralisResult
+│   └── ali_item_indexer_factorized.indexer
+├── entekhab pop bias.ipynb
+├── indexer.py
+├── pages_chetor.csv
+├── pages_entekhab.csv
+├── __pycache__
+│   ├── ALS.cpython-37.pyc
+│   └── indexer.cpython-37.pyc
+└── Yekranet-Recommender-system-offline-evaluation
+    ├── ALS.py
+    ├── chetor.ipynb
+    ├── chetor pop bias.ipynb
+    ├── Entekhab Colaborative Filtering MAE Precisio Recall.ipynb
+    ├── entekhab.ipynb
+    ├── entekhab pop bias.ipynb
+    ├── indexer.py
+    └── README.md
+
