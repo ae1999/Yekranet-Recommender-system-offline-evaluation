@@ -1,5 +1,5 @@
 # Yekranet-Recommender-system-offline-evaluation
-├── ali_item_indexer_factorized.indexer \n
+├── ali_item_indexer_factorized.indexer
 ├── ali_items_vectors.npy
 ├── ali_user_indexer_factorized.indexer
 ├── ali_users_vectors.npy
